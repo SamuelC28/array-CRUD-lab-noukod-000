@@ -7,7 +7,7 @@ arr = [3, "dave", true, -8]
 end
 
 def add_element_to_end_of_array(array, element)
-arr << 45
+arr.push(34)
 end
 
 def add_element_to_start_of_array(array, element)
