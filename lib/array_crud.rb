@@ -1,5 +1,5 @@
 def create_an_empty_array
-  arr = [1,"dave", -9, "bull"]
+  arr = [1, "dave", -9, "bull"]
 end
 
 def create_an_array
